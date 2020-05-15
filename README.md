@@ -8,12 +8,12 @@ Data application to display a machine learning solution for Boston real state pr
 
 ### Steps
 
-> Data analysis and exploration
-> Creation of a Baseline
-> ML: Linear Regression
-> ML: Desicion Tree
-> ML: Random Forest
-> Deploy
+> - Data analysis and exploration
+> - Creation of a Baseline
+> - ML: Linear Regression
+> - ML: Desicion Tree
+> - ML: Random Forest
+> - Deploy
 
 #### Requirements
 [Python3](https://www.python.org/)
