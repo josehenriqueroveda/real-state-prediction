@@ -16,8 +16,8 @@ Data application to display a machine learning solution for Boston real state pr
 > - Deploy
 
 #### Requirements
-[Python3](https://www.python.org/)
-[Colaboratory](https://colab.research.google.com/)
+- [Python3](https://www.python.org/)
+- [Colaboratory](https://colab.research.google.com/)
 
 ```sh
 pip3 install streamlit
